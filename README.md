@@ -1,2 +1,2 @@
 # DBMS_Mini_Project
-I develop this Database by using the SQL as my mini project in my one the semester 
+I develop this Database by using SQL as my mini project in one of the semester 
